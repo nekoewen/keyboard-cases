@@ -1,4 +1,4 @@
-# keyboard-cases
+# Some Random Keyboard Cases
 3D printing files for a few different mechanical keyboard cases.
 
 The [Crisco](https://github.com/ch604/crisco) is a 20-key keyboard (or macropad if you prefer) based on the Butterstick by g Heavy Industries. The case is extremely simple, and requires double-sided tape to hold the PCB in place.
