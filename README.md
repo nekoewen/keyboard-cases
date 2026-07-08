@@ -8,3 +8,5 @@ The [Masonry](https://github.com/dcpedit/masonry) is a 40% keyboard with a fasci
 The [2% Milk](https://github.com/Spaceboards/SpaceboardsHardware/tree/master/Keyboards/2%25%20Milk) is a 2-key macropad with a case shaped like a milk carton. I created a very simple friction-fitted backing for it, so you don't have to leave the MCU exposed.
 
 The [TouhouPad v2](https://github.com/Pimentoso/TouhouPad_v2) is a simple keyboard specifically for playing Touhou bullet hell games. My version just has a wider opening to accomodate cheap USB-C Pro Micros.
+
+The [Pyaa](https://github.com/konomu/pyaa) is a simple split steno keyboard, and I created a simple friction-fit case for it. Note that I have updated firmware in [this repository](https://github.com/nekoewen/ewen-qmk).
